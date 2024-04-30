@@ -1,6 +1,4 @@
-Aqui está aprimorada a documentação:
-
-### calcularLimite.js
+### limits.js
 
 Este arquivo define a função `limits`, a qual calcula o limite de uma função matemática em um ponto específico. Esta função utiliza a biblioteca `mathjs` para analisar e avaliar expressões matemáticas.
 
